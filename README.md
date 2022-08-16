@@ -1,4 +1,4 @@
-![This is an image](utils/fondo1.jpg)
+![This is an image](utils/fondo1.jpeg)
 
 # Hola!
 
