@@ -1,4 +1,4 @@
-![This is an image](utils/github-blue-logo-4k-blue-brickwall-github-logo-social-networks.jpg)
+![This is an image](utils/fondo1.jpg)
 
 # Hola!
 
