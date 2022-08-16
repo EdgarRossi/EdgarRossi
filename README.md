@@ -35,8 +35,7 @@
   
 💻 Desarrollador Web Full Stack
 
-🙋🏽‍♂️ Soy una persona curiosa y en constante crecimiento con respecto a nuevas tecnologias de programacion, tengo una muy buena adaptacion con las personas y a desafios en produccion.
-En cuanto a lo tecnico, he aprendido a manipular tanto el back como el front ya que en mis proyectos utilize variadas herramientas.
+🙋🏽‍♂️ Soy una persona curiosa y en constante crecimiento con respecto a nuevas tecnologías de programación, tengo una muy buena adaptación con las personas y a desafíos en producción. En cuanto a lo técnico, he aprendido a manipular tanto el back como el front ya que en mis proyectos utilice variadas herramientas.
 
 Quieres saber más de mi? Contactame! 🙌
 
