@@ -2,20 +2,14 @@
 
 # Hola!
 
-### Soy Dárika Valdez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!!
+### Soy Edgar Rossi (Full Stack Developer) me concidero un apasionado por la programación, sobretodo el Front End!!
 
 <h4 align="left"><b><i>Encuentrame en:</i></b></h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/d%C3%A1rika-valdez-a367481a8/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darikita" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/edgarrossi/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Edgar" height="30" width="40" /></a>
  <b><i> Mi perfil en LinkedIn</i></b>
 </p>
-<p align="left">
- <a href="https://www.linkedin.com/in/d%C3%A1rika-valdez-a367481a8/" target="blank">
-  <img align="center" src="utils/icons/logo.png" alt="Dárika Valdez" height="35" width="35" /></a>
- <b><i> Mi portafolio</i></b>
-</p>
-
 <h3 align="center">Tecnologías que utilizo:</h3>
 <p align="center">
     <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" > <img src = "utils/icons/html5.svg" alt="html5" width='40' height = '40'> </a>
@@ -39,19 +33,18 @@
  <br></br>
   ## Acerca de mi:
   
-💻 Desarrolladora Web Full Stack e Ingeniera Comercial apasionada por el diseño UI y FrontEnd.
+💻 Desarrollador Web Full Stack
 
-🙋🏻‍♀️ Soy una persona comprometida con mi trabajo y estudio, responsable, dinámica, sencilla y creativa, con capacidad de trabajar en equipo y bajo presión con una gran iniciativa de resolver problemas y colaborar constantemente, competitiva y apasionada por lo que hago así logro cumplir con eficiencia mis metas y objetivos. Por lo que puedo adaptarme fácilmente a cualquier reto o entorno.
-
-🔎 Hoy continúo formandome como programadora, aprendiendo nuevas tecnologías y adquiriendo nuevos conociemientos.
+🙋🏽‍♂️ Soy una persona curiosa y en constante crecimiento con respecto a nuevas tecnologias de programacion, tengo una muy buena adaptacion con las personas y a desafios en produccion.
+En cuanto a lo tecnico, he aprendido a manipular tanto el back como el front ya que en mis proyectos utilize variadas herramientas.
 
 Quieres saber más de mi? Contactame! 🙌
 
-📧 mail: darikavaldez@gmail.com
+📧 mail: edgarlrossi@gmail.com
 
 ## Proyectos:
 
-<h2> Dogs App </h2>
+<h2> Poke App </h2>
 
 <h4> Desarrollada con: </h4>
 <ul>
@@ -62,8 +55,8 @@ Quieres saber más de mi? Contactame! 🙌
     <li>Sequelize</li>
     <li>PostgreSQL</li>
 </ul>
-Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (The Dog Api) la cual nos brinda una lista detallada de razas de perros, los cuales, vamos a poder filtrar por género, ordenar por nombre, temperamentos entre otras, se pueden buscar razas, y crear las propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar las razas de perros que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
-Pueden ver el video, haciendo click <a href="https://www.youtube.com/watch?v=Bm7dKEN4_6M&t=34s">aquí</a>
+Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (The Pokemon API) la cual nos brinda una lista de datos de cada uno de los pokemones, los cuales, vamos a poder filtrar por tipo, ordenar por nombre, ordenar por fuerza y crear los propios Pokemones. La realicé creando una base de datos con Sequelize y postgreSQL para almacenar los tipos de pokemones que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
+Pueden ver el video, haciendo click <a>aquí</a>
  <br></br>
  
  <h2> E-commerce HenryFilms </h2>
@@ -80,4 +73,4 @@ Pueden ver el video, haciendo click <a href="https://www.youtube.com/watch?v=Bm7
  
 </ul>
 -HenryFilms  --> Front end! E-comerce de series y peliculas [Click aqui!](https://github.com/franxdd/henryfilm)
-El proyecto consiste en una aplicación que permite ver las series y peliculas con una información detallada de cada uno al darle click en este. Tiene un sistema de autenticación con login, register y login con google. Cuenta con roles user y admin. El usuario, puede hacer compras, editar su perfil, agregar a favoritos. El panel del admin tiene la opcion de crear, editar y borrar un producto ademas hacer un control de ususarios registrados.
+El proyecto consiste en una aplicación que permite ver las series y peliculas con una información detallada de cada uno al darle click en este. Tiene un sistema de autenticación con login, register y login con google. Cuenta con roles user y admin. El usuario, puede hacer compras, editar su perfil, agregar a favoritos. El panel del admin tiene la opcion de crear, editar y borrar un producto ademas hacer un control de ususarios registrados, ademas cuenta con un sistema de pago, agregar a favoritos y dejar una reseña al final una compra.
