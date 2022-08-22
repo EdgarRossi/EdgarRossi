@@ -2,7 +2,7 @@
 
 # Hola!
 
-### Soy Edgar Rossi (Full Stack Developer) me concidero un apasionado por la programación, sobretodo el Front End!!
+### Soy Edgar Rossi (Full Stack Developer) me considero un apasionado por la programación, sobretodo en Front-End!!
 
 <h4 align="left"><b><i>Encuentrame en:</i></b></h3>
 <p align="left">
